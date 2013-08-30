@@ -1,0 +1,3 @@
+[submodule "openssl-prng"]
+	path = openssl-prng
+	url = git@github.com:emboss/openssl-prng.git
